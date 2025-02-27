@@ -4,4 +4,4 @@ The Supply Chain Dashboard, developed in collaboration with UNP using Power BI, 
 
 PROJECT_DASHBOARD_FILE- https://drive.google.com/file/d/1i9aY0VvgQR5vMHt1A3TOnz2jhoze550y/view?usp=sharing
 
-PROJECT_PDF_FILE- https:https://drive.google.com/file/d/1i9aY0VvgQR5vMHt1A3TOnz2jhoze550y/view?usp=sharing
+PROJECT_PDF_FILE-https://drive.google.com/file/d/11IwVLqDiMcSrA9T12PK6a0ZXUuF0-EYX/view?usp=sharing
